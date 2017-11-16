@@ -1,0 +1,2 @@
+# faxury
+GitHub Pages
